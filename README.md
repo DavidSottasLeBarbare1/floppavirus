@@ -1,4 +1,4 @@
-# Happy Floppa Friday
+# Happy floppa friday
 
 # floppavirus
 bash floppa forkbomb

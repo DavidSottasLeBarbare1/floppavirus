@@ -1,3 +1,5 @@
+# Happy Floppa Friday
+
 # floppavirus
 bash floppa forkbomb
 
